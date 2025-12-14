@@ -19,5 +19,8 @@
   },
   "bugs": {
     "url": "https://github.com/rmatushkin-ru/frontend-project-44/issues"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }
