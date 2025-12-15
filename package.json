@@ -15,12 +15,16 @@
   "type": "module",
   "homepage": "https://github.com/rmatushkin-ru/frontend-project-44/blob/main/README.md",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "bugs": {
     "url": "https://github.com/rmatushkin-ru/frontend-project-44/issues"
   },
   "dependencies": {
+    "@stylistic/eslint-plugin": "^5.6.1",
+    "eslint": "^9.39.2",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
