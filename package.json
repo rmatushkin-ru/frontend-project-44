@@ -16,7 +16,8 @@
   "homepage": "https://github.com/rmatushkin-ru/frontend-project-44/blob/main/README.md",
   "bin": {
     "brain-games": "bin/brain-games.js",
-    "brain-even": "bin/brain-even.js"
+    "brain-even": "bin/brain-even.js",
+    "brain-calc": "bin/brain-calc.js"
   },
   "bugs": {
     "url": "https://github.com/rmatushkin-ru/frontend-project-44/issues"

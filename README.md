@@ -5,3 +5,6 @@
 
 5 ШАГ:
 https://asciinema.org/connect/3aa09067-2634-430c-81fd-f13350710007
+
+6 ШАГ:
+https://asciinema.org/connect/3aa09067-2634-430c-81fd-f13350710007
