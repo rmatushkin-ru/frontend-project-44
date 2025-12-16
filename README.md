@@ -14,3 +14,6 @@ https://asciinema.org/a/OeIGn4memqElKFwbq2jamVKCz
 
 8 ШАГ
 https://asciinema.org/a/7e7SXLq6hP4gBydDnLNRJpT1d
+
+9шаг
+https://asciinema.org/a/Hc2uTfevUzJXn74RAOipwQJiV
